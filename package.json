@@ -1,0 +1,14 @@
+{
+  "name": "testStream",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node job-stream.js"
+  },
+  "main": "job-stream.js",
+  "author": "k0d3",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.1.0"
+  }
+}
